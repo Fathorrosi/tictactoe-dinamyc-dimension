@@ -1,0 +1,8 @@
+Note:
+
+This application is a simple tictactoe game with dynamic dimensions. but in this game only contains logic or only on the console. why not built web based. in accordance with the requirements
+this game is made using java web. in my opinion it is very difficult to implement. because making a dynamic board according to user input is very difficult or impossible if
+only use web (jsp) and java. although on the web (jsp) using javaScript to create dynamic boards but can not communicate with java. because of java and javaScript
+are 2 different server side technologies.
+maybe it is better implemented using javaScript and Html only.
+because of that this game is made only as a console in java but it can implement dynamic board dimensions. Thank you for your attention
